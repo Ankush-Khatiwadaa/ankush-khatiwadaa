@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ankush Khatiwada 👋</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Master's Student | Building in Public | Future FANG Engineer</h3>
+<h3 align="center">Aspiring AI/ML Engineer | Master's Student | Building in Public | AI/ML Engineer</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 - 💡 I’m actively working on a **90-Day AI/ML Challenge** to go from beginner to production-ready AI/ML engineer.  
 - 🔄 Transitioning into AI and Machine Learning — learning, building, and sharing in public to inspire others.  
 - 🧠 I'm passionate about turning data into real-world impact using Python, ML/DL, and modern AI tools.  
-- 🎯 Career Goal: Contribute to impactful AI solutions at world-class organizations — FANG is in sight!  
+- 🎯 Career Goal: Contribute to impactful AI solutions at world-class organizations.  
 - 🗣️ I believe in lifelong learning, consistent effort, and documenting the journey openly.  
 
 🔗 **Let’s connect on [LinkedIn](https://www.linkedin.com/in/ankush-khatiwada-882a4a16a/)**
