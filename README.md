@@ -55,10 +55,9 @@
 ---
 
 ### 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankushkhatiwadaa&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushkhatiwadaa&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankushkhatiwada&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushkhatiwada&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
