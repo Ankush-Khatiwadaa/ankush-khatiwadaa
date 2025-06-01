@@ -8,7 +8,7 @@
 - 🎓 I'm pursuing my **Master’s in Technology Management** with a concentration in **Artificial Intelligence** at **Avila University**, Missouri, USA.  
 - 📍 Currently living in the **Kansas City Metropolitan Area, Missouri**  
 - 💡 I’m actively working on a **90-Day AI/ML Challenge** to go from beginner to production-ready AI/ML engineer.  
-- 🔄 Transitioning into tech from a non-technical background — learning, building, and sharing in public to inspire others.  
+- 🔄 Transitioning into AI and Machine Learning — learning, building, and sharing in public to inspire others.  
 - 🧠 I'm passionate about turning data into real-world impact using Python, ML/DL, and modern AI tools.  
 - 🎯 Career Goal: Contribute to impactful AI solutions at world-class organizations — FANG is in sight!  
 - 🗣️ I believe in lifelong learning, consistent effort, and documenting the journey openly.  
