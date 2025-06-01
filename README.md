@@ -56,8 +56,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankushkhatiwada&show_icons=true&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushkhatiwada&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankush-Khatiwadaa&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-Khatiwadaa&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@
 ### 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ankush-khatiwada-882a4a16a/)
-- 📩 ankushkhatiwadaa@gmail.com
-- 👨‍💻 [GitHub Repos](https://github.com/ankushkhatiwadaa)
+- 📩 ankush.khatiwada@gmail.com
+- 👨‍💻 [GitHub Repos](https://github.com/Ankush-Khatiwadaa)
 
 ---
