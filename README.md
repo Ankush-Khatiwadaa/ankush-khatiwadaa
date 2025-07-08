@@ -13,7 +13,7 @@
 -  Career Goal: Contribute to impactful AI solutions at world-class organizations.  
 -  I believe in lifelong learning, consistent effort, and documenting the journey openly.  
 
-🔗 **Let’s connect on [LinkedIn](https://www.linkedin.com/in/ankush-khatiwada-882a4a16a/)**
+ **Let’s connect on [LinkedIn](https://www.linkedin.com/in/ankush-khatiwada-882a4a16a/)**
 
 ---
 
