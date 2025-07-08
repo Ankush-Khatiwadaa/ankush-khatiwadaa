@@ -1,30 +1,30 @@
-<h1 align="center">Hi, I'm Ankush Khatiwada 👋</h1>
+<h1 align="center">Hi, I'm Ankush Khatiwada </h1>
 <h3 align="center">Aspiring AI/ML Engineer | Master's Student | Building in Public | AI/ML Engineer</h3>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 I'm pursuing my **Master’s in Technology Management** with a concentration in **Artificial Intelligence** at **Avila University**, Missouri, USA.  
-- 📍 Currently living in the **Kansas City Metropolitan Area, Missouri**  
-- 💡 I’m actively working on a **90-Day AI/ML Challenge** to go from beginner to production-ready AI/ML engineer.  
-- 🔄 Transitioning into AI and Machine Learning — learning, building, and sharing in public to inspire others.  
-- 🧠 I'm passionate about turning data into real-world impact using Python, ML/DL, and modern AI tools.  
-- 🎯 Career Goal: Contribute to impactful AI solutions at world-class organizations.  
-- 🗣️ I believe in lifelong learning, consistent effort, and documenting the journey openly.  
+-  I'm pursuing my **Master’s in Technology Management** with a concentration in **Artificial Intelligence** at **Avila University**, Missouri, USA.  
+-  Currently living in the **Kansas City Metropolitan Area, Missouri**  
+-  I’m actively working on a **90-Day AI/ML Challenge** to go from beginner to production-ready AI/ML engineer.  
+-  Transitioning into AI and Machine Learning — learning, building, and sharing in public to inspire others.  
+-  I'm passionate about turning data into real-world impact using Python, ML/DL, and modern AI tools.  
+-  Career Goal: Contribute to impactful AI solutions at world-class organizations.  
+-  I believe in lifelong learning, consistent effort, and documenting the journey openly.  
 
 🔗 **Let’s connect on [LinkedIn](https://www.linkedin.com/in/ankush-khatiwada-882a4a16a/)**
 
 ---
 
-### 🚀 What I'm Currently Building
+###  What I'm Currently Building
 
-- ✅ `90-Days-AI-ML-Challenge` → A structured, public roadmap to master AI & ML from scratch  
-- 🤖 Machine Learning Projects → Classification, regression, model tuning, and real datasets  
-- 🧠 Deep Learning → CNNs, TensorFlow & PyTorch neural networks, image recognition  
-- 📊 NLP & LLMs → Sentiment analysis, BERT/GPT-based models  
-- 🌐 Geolocation Projects → Mapping dog spots with `geocoder`, real-time map rendering  
-- 🧪 Deployments → Web apps with Streamlit & Flask  
+- `90-Days-AI-ML-Challenge` → A structured, public roadmap to master AI & ML from scratch  
+-  Machine Learning Projects → Classification, regression, model tuning, and real datasets  
+-  Deep Learning → CNNs, TensorFlow & PyTorch neural networks, image recognition  
+-  NLP & LLMs → Sentiment analysis, BERT/GPT-based models  
+-  Geolocation Projects → Mapping dog spots with `geocoder`, real-time map rendering  
+-  Deployments → Web apps with Streamlit & Flask  
 
 ---
 
@@ -32,14 +32,14 @@
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| `90-Days-AI-ML` | End-to-end AI/ML learning journey documented in public | 🚧 In Progress |
-| Pet Adoption Recommender | Django app with personalized pet suggestions (search + collaborative filtering) | 🟢 Deployed Soon |
-| Resume Screener AI | NLP-powered tool to screen resumes for tech roles | 🧪 Testing |
-| Real-time Map Tracker | Uses IP geolocation to visualize local dog parks | ✅ Completed |
+| `90-Days-AI-ML` | End-to-end AI/ML learning journey documented in public |  In Progress |
+| Pet Adoption Recommender | Django app with personalized pet suggestions (search + collaborative filtering) |  Deployed Soon |
+| Resume Screener AI | NLP-powered tool to screen resumes for tech roles |  Testing |
+| Real-time Map Tracker | Uses IP geolocation to visualize local dog parks |  Completed |
 
 ---
 
-### 🧰 My Tech Stack
+###  My Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankush-Khatiwadaa&show_icons=true&theme=tokyonight&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-Khatiwadaa&layout=compact&theme=tokyonight" height="160" />
@@ -66,17 +66,17 @@
 
 ---
 
-### 💬 Philosophy
+### Philosophy
 
 > “Start where you are. Use what you have. Do what you can.”  
 > I believe **AI should be understandable, buildable, and useful** — for everyone. Let’s learn and build together, one commit at a time.
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ankush-khatiwada-882a4a16a/)
-- 📩 ankush.khatiwada@gmail.com
-- 👨‍💻 [GitHub Repos](https://github.com/Ankush-Khatiwadaa)
+-  [LinkedIn](https://www.linkedin.com/in/ankush-khatiwada-882a4a16a/)
+- ankush.khatiwada@gmail.com
+-  [GitHub Repos](https://github.com/Ankush-Khatiwadaa)
 
 ---
