@@ -31,7 +31,6 @@
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| `90-Days-AI-ML` | End-to-end AI/ML learning journey documented in public |  In Progress |
 | Pet Adoption Recommender | Django app with personalized pet suggestions (search + collaborative filtering) |  Deployed Soon |
 | Resume Screener AI | NLP-powered tool to screen resumes for tech roles |  Testing |
 | Real-time Map Tracker | Uses IP geolocation to visualize local dog parks |  Completed |
