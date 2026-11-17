@@ -19,7 +19,6 @@
 
 ###  What I'm Currently Building
 
-- `90-Days-AI-ML-Challenge` → A structured, public roadmap to master AI & ML from scratch  
 -  Machine Learning Projects → Classification, regression, model tuning, and real datasets  
 -  Deep Learning → CNNs, TensorFlow & PyTorch neural networks, image recognition  
 -  NLP & LLMs → Sentiment analysis, BERT/GPT-based models  
